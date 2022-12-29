@@ -1,0 +1,2 @@
+# realestateapp
+simple Flask application that displays a list of properties on the home page, and allows users to click on a property to view its details. The properties are stored in a list and passed to the template when rendering the home page. The property_detail route handles displaying the details for a specific property by finding the property with the matching ID in the list and rendering a template with the property data.
